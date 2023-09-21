@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-VERSION = '1.3.1'
+VERSION = '1.3.0'
 
 R = '\033[31m'  # red
 G = '\033[32m'  # green
@@ -121,7 +121,7 @@ def banner():
 /____  > \___  >\___  >|__|_ \ \___  >|__|
      \/      \/     \/      \/     \/'''
 	utils.print(f'{G}{art}{W}\n')
-	utils.print(f'{G}[>] {C}Created By   : {W}thewhiteh4t')
+	utils.print(f'{G}[>] {C}Created By   : {W}Mr Dhafanp')
 	utils.print(f'{G} |---> {C}Twitter   : {W}{twitter_url}')
 	utils.print(f'{G} |---> {C}Community : {W}{comms_url}')
 	utils.print(f'{G}[>] {C}Version      : {W}{VERSION}\n')
